@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AsyncTask Example</string>
+    <string name="sleep">Sleep</string>
+    <string name="going_to_sleep_for">Going to sleep for</string>
+    <string name="mili_seconds">Mili seconds</string>
+    <string name="async_title">Async task</string>
+    <string name="async_message">Please wait ! Slepping...</string>
+    <string name="sleep_start_now_for">Sleep start now for</string>
+    <string name="slept">Slept </string>
+    <string name="operation_failed">Operation failed :</string>
+</resources>
